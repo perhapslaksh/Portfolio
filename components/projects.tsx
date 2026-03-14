@@ -10,7 +10,7 @@ const projects = [
     description: 'A full-stack social travel application where users can bookmark locations on an interactive world map, write reviews with ratings and photos, and discover travel experiences from a community of wanderers.',
     tech: ['React', 'Redux', 'JavaScript', 'CSS3' , 'Node.js', 'Express', 'MongoDB'],
     github: 'https://github.com/perhapslaksh',
-    live: 'socialtravelapp.vercel.app',
+    live: 'https://socialtravelapp.vercel.app',
     image: 'bg-gradient-to-br from-blue-600 to-cyan-500',
   },
   {
@@ -18,7 +18,7 @@ const projects = [
     description: 'Modern e-commerce interface with product listings, filters, and shopping cart functionality. Focus on UX and performance.',
     tech: ['React', 'JavaScript', 'CSS', 'Component Architecture'],
     github: 'https://github.com/perhapslaksh',
-    live: 'aalopoodi.vercel.app',
+    live: 'https://aalopoodi.vercel.app',
     image: 'bg-gradient-to-br from-orange-600 to-red-500',
   },
   {
@@ -26,7 +26,7 @@ const projects = [
     description: 'A personal portfolio website to showcase my projects, skills, and experience as a frontend developer. Built with modern web technologies and designed for responsiveness and performance.',
     tech: ['Next.js', 'React', 'Tailwind CSS', 'Framer Motion'],
     github: 'https://github.com/perhapslaksh',
-    live: 'laksharora.in',
+    live: 'https://laksharora.in',
     image: 'bg-gradient-to-br from-green-600 to-teal-500',
   },
   {
@@ -34,7 +34,7 @@ const projects = [
     description: 'Sustainable - a flexible application built to help teams and individuals launch projects faster with a intuitive and customizable interface. It focuses on usability, performance and startup landing pages.',
     tech: ['MongoDB', 'Express', 'React', 'Node.js'],
     github: 'https://github.com/perhapslaksh',
-    live: 'sustainable-rho.vercel.app',
+    live: 'https://sustainable-rho.vercel.app',
     image: 'bg-gradient-to-br from-indigo-600 to-blue-500',
   },
 ]
