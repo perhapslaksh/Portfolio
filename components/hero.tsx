@@ -52,9 +52,7 @@ export function Hero() {
 
         <motion.p variants={itemVariants} className="text-xl md:text-2xl text-muted-foreground mb-8 text-balance max-w-2xl">
           Mern Full Stack Developer & Full Stack Engineer crafting scalable and dynamic web applications using MongoDB, Express.js, React, Node.js, Generative AI, and modern development tools.
-
-
-          Experienced in internships project-based learning and remote collaboration and a continuous learner currently expanding into Java full stack development.
+        
         </motion.p>
 
         <motion.p variants={itemVariants} className="text-lg text-muted-foreground mb-12 max-w-2xl leading-relaxed">
