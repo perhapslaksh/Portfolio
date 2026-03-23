@@ -38,7 +38,7 @@ export function About() {
       <div className="grid md:grid-cols-2 gap-12">
         <motion.div variants={itemVariants} className="space-y-6">
           <p className="text-lg text-muted-foreground leading-relaxed">
-            I'm a <span className="font-semibold text-foreground">frontend-focused developer</span> with a passion for building responsive, user-friendly web interfaces. My journey in web development has been driven by curiosity, continuous learning, and a commitment to writing clean, efficient code.
+            I'm a <span className="font-semibold text-foreground">MERN full-stack developer</span> with experience in Generative AI, currently expanding my expertise into Java full-stack development, I believe in leveraging technology to solve real-world problems and deliver impactful digital solutions.
           </p>
 
           <p className="text-lg text-muted-foreground leading-relaxed">
@@ -47,7 +47,7 @@ export function About() {
 
 
           <p className="text-lg text-muted-foreground leading-relaxed">
-            I'm expanding my skill set into full-stack development through the MERN stack and Java-based backends. I believe in the power of technology to solve problems and create meaningful digital experiences.
+            I focus on building reliable, performance-oriented applications while constantly exploring new tools and frameworks to stay aligned with evolving industry standards.
           </p>
         </motion.div>
 
