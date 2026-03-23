@@ -51,7 +51,9 @@ export function Hero() {
         </motion.h1>
 
         <motion.p variants={itemVariants} className="text-xl md:text-2xl text-muted-foreground mb-8 text-balance max-w-2xl">
-          Frontend Developer & Full Stack Engineer crafting responsive, dynamic web experiences with React, JavaScript, and modern technologies.
+          Mern Full Stack Developer & Full Stack Engineer crafting scalable and dynamic web applications using MongoDB, Express.js, React, Node.js, Generative AI, and modern development tools.
+
+Experienced in internships project-based learning and remote collaboration. Strong leadership with proven communication skills and a continuous learner currently expanding into Java full stack development.
         </motion.p>
 
         <motion.p variants={itemVariants} className="text-lg text-muted-foreground mb-12 max-w-2xl leading-relaxed">
