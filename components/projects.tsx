@@ -14,11 +14,11 @@ const projects = [
     image: 'bg-gradient-to-br from-blue-600 to-cyan-500',
   },
   {
-    title: 'Astrology App',
-    description: 'Modern e-commerce interface with product listings, filters, and shopping cart functionality. Focus on UX and performance.',
-    tech: ['React', 'JavaScript', 'CSS', 'Component Architecture'],
+    title: 'City-heart',
+    description: 'CityHeart helps you explore your city beyond the obvious—discover real places, real vibes, and real connections.',
+    tech: ['React', 'Node.js', 'Express.js', 'MongoDB' , 'Render' ,'CSS', 'Component Architecture'],
     github: 'https://github.com/perhapslaksh',
-    live: 'https://aalopoodi.vercel.app',
+    live: 'https://heartyourcity.vercel.app',
     image: 'bg-gradient-to-br from-orange-600 to-red-500',
   },
   {
