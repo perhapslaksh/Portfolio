@@ -5,15 +5,7 @@ import { Github, ExternalLink, Code2 } from 'lucide-react'
 import { Button } from '@/components/ui/button'
 
 const projects = [
-  {
-    title: 'Social Travel App',
-    description: 'A full-stack social travel application where users can bookmark locations on an interactive world map, write reviews with ratings and photos, and discover travel experiences from a community of wanderers.',
-    tech: ['React', 'Redux', 'JavaScript', 'CSS3' , 'Node.js', 'Express', 'MongoDB'],
-    github: 'https://github.com/perhapslaksh',
-    live: 'https://socialtravelapp.vercel.app',
-    image: 'bg-gradient-to-br from-blue-600 to-cyan-500',
-  },
-  {
+   {
     title: 'City-heart',
     description: 'CityHeart helps you explore your city beyond the obvious—discover real places, real vibes, and real connections.',
     tech: ['React', 'Node.js', 'Express.js', 'MongoDB' , 'Render' ,'CSS', 'Component Architecture'],
@@ -29,7 +21,7 @@ const projects = [
     live: 'https://laksharora.in',
     image: 'bg-gradient-to-br from-green-600 to-teal-500',
   },
-  {
+   {
     title: 'SaaS-style web application',
     description: 'Sustainable - a flexible application built to help teams and individuals launch projects faster with a intuitive and customizable interface. It focuses on usability, performance and startup landing pages.',
     tech: ['MongoDB', 'Express', 'React', 'Node.js'],
@@ -37,7 +29,15 @@ const projects = [
     live: 'https://sustainable-rho.vercel.app',
     image: 'bg-gradient-to-br from-indigo-600 to-blue-500',
   },
-]
+    {
+    title: 'Social Travel App',
+    description: 'A full-stack social travel application where users can bookmark locations on an interactive world map, write reviews with ratings and photos, and discover travel experiences from a community of wanderers.',
+    tech: ['React', 'Redux', 'JavaScript', 'CSS3' , 'Node.js', 'Express', 'MongoDB'],
+    github: 'https://github.com/perhapslaksh',
+    live: 'https://socialtravelapp.vercel.app',
+    image: 'bg-gradient-to-br from-blue-600 to-cyan-500',
+  },
+ ]
 
 export function Projects() {
   const containerVariants = {
